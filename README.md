@@ -1,2 +1,3 @@
 # geolab
-Geolab Educational Exercises
+Geolab Exercises. 
+JEGE SAKHOKIA
